@@ -1,0 +1,67 @@
+.logo{
+ font-family:'Ramaraja';
+ font-style: normal;
+ margin-top: 37px;
+ margin-left: 80px;
+ font-weight: 900;
+ font-size: 30px;
+ line-height: 160%;
+ /* or 48px */
+ letter-spacing: -0.02em;
+ color:#0A1B32;
+}
+.logo-dot{
+ color:#33A2E0; 
+}
+
+section{
+    display: inline-block;
+}
+
+.main-title{
+max-width:495px;
+width: 100%;
+margin-left:200px;
+margin-top:280px;
+font-family: sans-serif;
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 76px;
+/* or 106% */
+letter-spacing: 0.02em;
+color: #1B0A42;
+}
+.main-info{
+max-width: 583px;
+width: 100%;
+margin-top:10px;
+margin-left:200px;
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 32px;
+/* or 160% */
+letter-spacing: 0.02em;
+color: #9A9A9A;
+}
+
+.main-btn{
+    width: 152px;
+    height: 63.82px;
+    margin-top: 50px;
+    margin-left: 200px;
+    background: #33A2E0;
+    border-radius: 6px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 32px;
+    /* or 200% */
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    border: none;
+}
